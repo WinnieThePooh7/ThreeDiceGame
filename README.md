@@ -10,7 +10,7 @@ cd C:/wamp/www
 
 git clone https://github.com/WinnieThePooh7/ThreeDiceGame.git 
 
-Start your local PhpMyAdmin create database with `threedice` and import file `threedice.sql` into it.
+Start your local PhpMyAdmin create database `threedice` and import file `threedice.sql` into it.
 
 ### Prerequisites
 
