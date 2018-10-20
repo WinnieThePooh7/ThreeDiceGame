@@ -4,35 +4,19 @@ Simple Three Dice game that enables user to bet on product result of three dices
 
 ## Getting Started
 
-git clone https://github.com/WinnieThePooh7/ThreeDiceGame.git myLocalThreeDiceGame
+if you want to start project on your local machine that has installed WAMP
+cd C:/wamp/www
+
+git clone https://github.com/WinnieThePooh7/ThreeDiceGame.git 
+
+Start your local PhpMyAdmin create database with `threedice` and import file `threedice.sql` into it.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You must install WAMP server on your local machine
+http://www.wampserver.com/en/ - Link for WAMP download
 
-```
-Give examples
-```
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Built With
 
 
 
