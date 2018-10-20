@@ -54,7 +54,7 @@ function sendData()
     document.getElementById("id").value="";
     document.getElementById("value").value="";
     document.getElementById("stake").value="";
-    request.open("POST","http://localhost:8080/api/APIs/ThreeDiceApi.php",true);
+    request.open("POST","http://localhost:8080/ThreeDiceGame/api/APIs/ThreeDiceApi.php",true);
     request.setRequestHeader("Content-Type","application/json");
     request.send(jsonRequest);
 }
