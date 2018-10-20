@@ -17,9 +17,10 @@ Start Your local PhpMyAdmin, create database named `threedice` and import file `
 ### Prerequisites
 
 You must install WAMP server on your local machine
+
 http://www.wampserver.com/en/ - Link for WAMP download
-It is assumed that Your default Apache port is 8080. 
-If that's not the case You should edit line 57 in file `javas.js` inside folder `FrontEnd/public_html`
+
+It is assumed that Your default Apache port is 8080. If that's not the case You should edit line 57 in file `javas.js` inside folder `FrontEnd/public_html`
 
 
 
