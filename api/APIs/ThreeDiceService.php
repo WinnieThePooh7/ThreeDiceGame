@@ -150,7 +150,7 @@ class ThreeDiceService {
 
     private function returnOdds($product)
     {
-        if($product < 9 || $product>=120) return 2;
+        if(($product < 9) || ($product>=120)) return 2;
         return 5;
         
     }
