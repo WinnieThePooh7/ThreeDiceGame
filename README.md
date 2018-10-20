@@ -4,7 +4,7 @@ Simple Three Dice game that enables user to bet on product result of three dices
 
 ## Getting Started
 
-git clone https://github.com/libgit2/libgit2 mylibgit
+git clone https://github.com/WinnieThePooh7/ThreeDiceGame.git myLocalThreeDiceGame
 
 ### Prerequisites
 
