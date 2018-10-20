@@ -113,7 +113,7 @@ class ThreeDiceService {
     
             $finalProduct = $dice1*$dice2*$dice3;
             
-            if($finalProduct===$cproduct)
+            if($finalProduct==$cproduct)
             {
                 $win=1;
             }
