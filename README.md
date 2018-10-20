@@ -10,6 +10,8 @@ if you want to start project on your local machine that has installed WAMP
 
 2. `git clone https://github.com/WinnieThePooh7/ThreeDiceGame.git`
 
+File named `C:/wamp/www/ThreeDiceGame` will be created
+
 Start your local PhpMyAdmin create database `threedice` and import file `threedice.sql` into it.
 
 ### Prerequisites
